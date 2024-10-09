@@ -1,4 +1,5 @@
 # TidyTool
+#### (formerly called simply "Desktop Organizer")
 Script, designed to automate File Organization on a specified directory ("_~/Desktop_" used in this example ).  
 Scans selected directory for files -  based on supported file types (_e.g., audio, documents, images, videos_) - to categorize into selected directories.  
 The GUI - built with tkinter - features a simple window with a title, input field, and file browse capabilities, to configure the file organization.  
